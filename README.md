@@ -40,16 +40,16 @@ Explore the captivating journey of 120 years of Olympic history through an inter
 
 Take a virtual trip through Olympic history and experience the global impact of the Games. Check out the live dashboard for a captivating data-driven exploration!
 
-**Overall Dashboard** <br>
+**Overall Dashboard :** <br> <br>
 <img width="929" alt="Screenshot 2023-08-03 at 9 21 14 PM" src="https://github.com/darshanjawandhiya/The-Story-of-Olympics/assets/85777009/2b377b9b-4125-4a10-885b-fd79dc3dc9ab">
-<br>
-**EDA Dashboard** <br>
+<br> <br>
+**EDA Dashboard :** <br> <br>
 <img width="922" alt="Screenshot 2023-08-03 at 9 21 42 PM" src="https://github.com/darshanjawandhiya/The-Story-of-Olympics/assets/85777009/fdef535c-32b7-4267-b782-db48b54eb85b">
-<br>
+<br><br>
 
-**Country-wise Dashboard** <br>
+**Country-wise Dashboard :** <br><br>
 <img width="922" alt="Screenshot 2023-08-03 at 9 22 31 PM" src="https://github.com/darshanjawandhiya/The-Story-of-Olympics/assets/85777009/a789fb72-a31b-41aa-bfaf-059f7fc59ff2">
-<br> 
+<br> <br> 
 
 ***
 
