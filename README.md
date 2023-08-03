@@ -49,8 +49,9 @@ Take a virtual trip through Olympic history and experience the global impact of 
 
 **Country-wise Dashboard** <br>
 <img width="922" alt="Screenshot 2023-08-03 at 9 22 31 PM" src="https://github.com/darshanjawandhiya/The-Story-of-Olympics/assets/85777009/a789fb72-a31b-41aa-bfaf-059f7fc59ff2">
+<br> 
 
-<br>
+***
 
 
 
