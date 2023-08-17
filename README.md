@@ -28,7 +28,7 @@ This project encapsulates a journey through time, culture, and competition, all 
 
 ***
 
-## Interactive Dashboard: The Story of Olympics (Attaching some images to preview)
+## Interactive Dashboard: The Story of Olympics (Attaching some images for preview)
 
 Explore the captivating journey of 120 years of Olympic history through an interactive data visualization dashboard. Uncover participation trends, gender distribution, and athletes' origins with dynamic Tableau visualizations.
 
