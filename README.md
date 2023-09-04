@@ -1,9 +1,8 @@
 # The-Story-of-Olympics
 
-### Project: The Story of Olympics: 120 years of Olympic history - Athletes and Results Dashboard
+### Project: The Story of Olympics: 120 years of Olympic history - Athletes and Results Dashboard [using Tableau]
 
-The "The Story of Olympics" project is a comprehensive exploratory data analysis (EDA) endeavor that delves into the rich tapestry of the modern Olympic Games, spanning an impressive 120 years from Athens 1896 to Rio 2016. This insightful dashboard project draws its data from a meticulously curated dataset sourced from Kaggle, with the aim of unraveling intriguing insights and trends underlying the global phenomenon of the Olympics.
-
+Welcome to the 'Story of Olympics' project! I've put together a comprehensive exploration of the history of the modern Olympic Games, spanning 120 years from Athens in 1896 to Rio in 2016. I've collected data from Kaggle and used it to uncover intriguing insights and trends about the Olympics through a user-friendly dashboard. Please note that my dataset only covers information up to 2016, even though the Olympics are ongoing. Feel free to explore this repository and join me in discovering the fascinating world of the Olympics.
 ***
 
 ## Project Highlights:
